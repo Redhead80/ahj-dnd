@@ -240,6 +240,7 @@ body {
 @media (min-width: 641px) and (max-width: 900px) {
     body {   
         background-image: url('../img/office-background.jpg');
-        background-position: center;
+        background-position: relative;
+        display: flex;
     }
 }
