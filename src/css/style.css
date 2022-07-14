@@ -240,7 +240,6 @@ body {
 @media (min-width: 641px) and (max-width: 900px) {
     body {   
         background-image: url('../img/background.jpg');
-        background-position: relative;
-        display: flex;
+        background-position: center;
     }
 }
